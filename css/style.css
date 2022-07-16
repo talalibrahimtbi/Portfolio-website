@@ -153,14 +153,9 @@ img{
     background-color: var(--first-color);
 }
 .nav #imgLogo{
-    width: 160px;
-    height: auto;
+    width: auto;
+    height: 150px;
     padding: 10px;
-}
-
-.nav__logo{
-    color: #000033;
-    /* if color of logo text */
 }
 .nav__toggle{
     color: var(--second-color);
